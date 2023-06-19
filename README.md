@@ -2,10 +2,9 @@
 Proyecto final realizado para el curso de Diseño y Construcción de Dispositivos Electrónicos, perteneciente a la carrera de Ingeniería en Electrónica en Universidad Galileo.  Este proyecto representa mi acercamiento al Internet de las Cosas (IoT), marcando mi primer diseño y ensamblaje de un dispositivo de este tipo en Guatemala.
 
 
-# ¿Cómo funciona?
+# ¿Qué podemos hacer?
 
-El Smart Home funciona por medio de un microcontrolador ESP32 el cual posee conectividad WiFi y BLE, el cual puede ser programado con difentes lenguajes de programación entre los mas utilizados se encuentra C++ y Micropython.
-
+Desplegar información por medio de un web server o dashboard MQTT por medio de conexión WiFi. Obtener mediciones de temperatura, humedad y presión atmosférica a través del sensor BME280,  controlar cargas AC por medio del relé y una tira led de tipo NeoPixel por medio de la programación y un Buzzer para emitir algún sonido.
 
 # Pinout
 
