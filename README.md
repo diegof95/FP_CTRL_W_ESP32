@@ -4,16 +4,30 @@ Proyecto final realizado para el curso de Diseño y Construcción de Dispositivo
 
 ## Pinout
 
-### WS2812B
+
+### Buzzer
+Nombre | GPIO 
+--- | --- 
+DATA | 12
+VDD | 3V3
+VSS | GND
+
+### Relé
+Nombre | GPIO 
+--- | --- 
+DATA | 13
+VDD | 5V
+VSS | GND
+
+### Tira led - WS2812B
 Nombre | GPIO 
 --- | --- 
 DATA | 14
 VDD | 5V
 VSS | GND
 
-### Buzzer
-Nombre | GPIO 
---- | --- 
-DATA | 27
-VDD | 3V3
-VSS | GND
+### Temperatura, humedad y presión atmosférica - Comunicación I2C
+ESP32 | BME280
+--- | ---
+SCL 21 | SCK 4
+SDA 22 | SDI 3
