@@ -26,8 +26,8 @@ DATA | 14
 VDD | 5V
 VSS | GND
 
-### Temperatura, humedad y presión atmosférica - Comunicación I2C
-ESP32 | BME280
+### Sensor de temperatura, humedad y presión - Comunicación I2C
+BME280 | ESP32
 --- | ---
-SCL 21 | SCK 4
-SDA 22 | SDI 3
+SDI 3 | SDA 21
+SCK 4 |  SCL 22 
