@@ -43,3 +43,5 @@ Hardware License: CERN Open Hardware License Version 2
 Software License: GNU General Public License Version 3.0
 
 Documentation License: CC BY 4.0 International
+
+![](/img/oshw_facts.svg)
