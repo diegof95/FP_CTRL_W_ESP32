@@ -30,7 +30,7 @@ DATA | 14
 VDD | 5V
 VSS | GND
 
-### Sensor de temperatura, humedad y presión - Comunicación I2C
+### Sensor de temperatura, humedad y presión - Comunicación I2C (Aún no funciona)
 BME280 | ESP32
 --- | ---
 SDI 3 | SDA 21
@@ -45,3 +45,8 @@ Software License: GNU General Public License Version 3.0
 Documentation License: CC BY 4.0 International
 
 ![](/img/oshw_facts.svg)
+
+# Contacto e información adicional
+
+Autor: Diego Iboy (diego.iboy@galileo.edu)
+Vídeo del funcionamiento: https://youtu.be/rUuOkdmCc4Q
